@@ -11,3 +11,104 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.info-column{
+  background: transparent;
+  color: #FFFDFA;
+}
+
+.earth-column{
+  background: transparent;
+}
+
+.all-columns{
+  background: #000011;
+}
+
+.navbar{
+  background-color: #000011;
+}
+
+
+.navbar-item{
+  color: #FFFDFA;
+}
+
+.title{
+  color: #FFFDFA;
+}
+
+.earth{
+  height:100%;
+  width:100%;
+  z-index:3;
+}
+
+.custom-input{
+  background-color: transparent;
+  border-color:#FFFDFA;
+  color: #FFFDFA;
+  margin-top:20px;
+}
+
+.submit-button{
+  margin-top:20px;
+}
+
+.custom-verify{
+  margin-top:20px;
+}
+
+
+.card{
+  background-color:#000011;
+  color: #FFFDFA;
+  height:100%;
+}
+
+.subtitle{
+  color: #FFFDFA;
+}
+
+.content figure{
+  margin-left:0;
+  margin-right:0
+}
+
+.column{
+  padding:0
+}
+
+.vi__character{
+  background:#FFFDFA;
+  border-radius:10px;
+}
+
+.card-footer{
+  border:none
+}
+
+.PhoneInputInput{
+  background:transparent;
+  color: #FFFDFA;
+  border:none;
+  height:100%;
+  font-size: 1rem;
+
+}
+
+.PhoneInputInput:focus, input:focus{
+  outline: none;
+}
+
+.PhoneInputInput:-internal-autofill-selected input:-internal-autofill-selected{
+  background-color: transparent !important;
+  background-image: none !important;
+  color: #FFFDFA !important;
+}
+
+.card-content{
+  background:#1a1d28;
+  height:100%;
+  padding-bottom:7vh;
+}
